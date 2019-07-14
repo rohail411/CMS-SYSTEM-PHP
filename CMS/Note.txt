@@ -1,0 +1,3 @@
+Create database Name
+	cms
+and paste file.
